@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpync",
+        "uuid": 5400864,
+        "checksum": "y72byq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
